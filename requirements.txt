@@ -12,6 +12,6 @@ six==1.11.0
 Werkzeug==0.14.1
 Pillow>=1.0
 matplotlib 
-# gunicorn>=19.7.1
-Frozen-Flask
+gunicorn>=19.7.1
+
 
